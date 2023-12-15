@@ -17,7 +17,7 @@ body
 
 .container
 {
-    width: 1170px;
+    max-width: 1170px;
     margin: 0 auto;
     text-align: center;
 }
@@ -33,7 +33,7 @@ nav
 
 .logo
 {
-    width: 111px;
+    max-width: 111px;
     height: auto;
 }
 

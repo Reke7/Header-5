@@ -234,3 +234,10 @@ img
         width: 100%;
     }
 }
+
+@media (max-width: 400px)
+{
+    .hero{
+        gap: 280px;
+    }
+}
